@@ -1,16 +1,20 @@
-# FROSTBLACK
+## FROSTBLACK - Url Path Finder
 
-## Instructions d'installation
+### Installation instructions
 
-Suivez ces étapes pour télécharger et installer les fichiers nécessaires :
+Follow these steps to download and install the required files :
 
-1. Téléchargez les fichiers de l'application.
+1. Download the application files.
 
-2. Ouvrez une console ou un terminal et exécutez la commande suivante pour installer les dépendances :
+2. Open a console or terminal and run the following command to install the dependencies :
 
-   ```bash
-   pip install -r requirements.txt
+         ```bash
+         pip install -r requirements.txt
    
-Assurez-vous que vous êtes dans le bon répertoire où se trouve le fichier requirements.txt.
+      _Make sure you are in the correct directory where the requirements.txt file is located_
 
-3. Une fois les dépendances installées, exécutez le fichier `URL_PATH_LAUNCHER.bat` pour lancer l'application.
+3. Once the dependencies are installed, run the `URL_PATH_LAUNCHER.bat` file to launch the application.
+
+### How to use
+
+
