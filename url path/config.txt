@@ -1,0 +1,5 @@
+tkinter
+os
+requests
+concurrent.futures
+termcolor
