@@ -9,10 +9,10 @@ Follow these steps to download and install the required files :
 
 2. Open a console or terminal and run the following command to install the dependencies :
 
-         ```bash
-         pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
    
-      _Make sure you are in the correct directory where the requirements.txt file is located_
+  _Make sure you are in the correct directory where the requirements.txt file is located_
 
 3. Once the dependencies are installed, run the __`URL_PATH_LAUNCHER.bat`__ file to launch the application.
 
