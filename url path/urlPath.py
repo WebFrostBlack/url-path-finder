@@ -53,13 +53,16 @@ def write_valid_urls(url, valid_urls):
     print(f'Successfully saved valid URLs to {file_path}')
 
 if __name__ == '__main__':
-    url = input('Entrez l\'URL à tester : ')
+    input('Crédit FrostBlack ! [Press Enter] ')
+    os.system("cls")
+    url = input('Enter the URL to test : ')
     if not url.startswith('http://') and not url.startswith('https://'):
         url = f'https://{url}'
-    option = input("Tester avec un .txt [1] | Tester avec toutes les possibilités [2]\n")
+        os.system("cls")
+    option = input("Test with your .txt [1] | Test with all possibilities [2]\n")
     if option == '1':
         txt_dir, files = show_txt_files()
-        file_index = int(input('Entrez le numéro du fichier à utiliser : '))
+        file_index = int(input('Enter the file number to use : '))
         file_path = os.path.join(txt_dir, files[file_index-1])
         with open(file_path, 'r') as f:
             words = f.read().split()
@@ -70,4 +73,4 @@ if __name__ == '__main__':
     elif option == '2':
         test_all_paths(url)
     else:
-        print('Option invalide')
+        print('invalid option')
