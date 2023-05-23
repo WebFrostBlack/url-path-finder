@@ -1,4 +1,4 @@
-## FROSTBLACK - Url Path Finder
+## ©FROSTBLACK - Url Path Finder
 
 ### Installation instructions
 ==============================================================
