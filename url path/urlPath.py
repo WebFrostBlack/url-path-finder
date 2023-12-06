@@ -1,3 +1,8 @@
+# --------------------------- #
+#       ©FROSTBLACK           #
+#         WEB DEV             #
+# --------------------------- #
+
 import os
 import requests
 from concurrent.futures import ThreadPoolExecutor
