@@ -1,0 +1,13 @@
+https://sjparchamp.fr/wp-content
+https://sjparchamp.fr/wp-json
+https://sjparchamp.fr/wp-admin
+https://sjparchamp.fr/wp-login.php
+https://sjparchamp.fr/wp-cron.php
+https://sjparchamp.fr/wp-content/themes
+https://sjparchamp.fr/wp-cron.php
+https://sjparchamp.fr/wp-content/plugins
+https://sjparchamp.fr/wp-login.php
+https://sjparchamp.fr/wp-load.php
+https://sjparchamp.fr/wp-links-opml.php
+https://sjparchamp.fr/wp-admin
+https://sjparchamp.fr/wp-sitemap.xml

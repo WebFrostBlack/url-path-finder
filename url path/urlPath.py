@@ -11,6 +11,7 @@ from termcolor import colored
 valid_urls = []
 
 def show_txt_files():
+    os.system('cls')
     base_path = os.path.dirname(os.path.abspath(__file__))
     txt_dir = os.path.join(base_path, 'txt')
     files = [f for f in os.listdir(txt_dir) if os.path.isfile(os.path.join(txt_dir, f)) and f.endswith('.txt')]
